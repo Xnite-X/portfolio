@@ -102,46 +102,6 @@ class Contact extends Component {
                         </div>
                         </div>
                     </Slide>
-
-                    <Slide right duration={1000}>
-                        <aside className="four columns footer-widgets">
-                        <div className="widget widget_contact">
-                            <h4>Address and Phone</h4>
-                            <p className="address">
-                            {name}
-                            <br />
-                            {street} <br />
-                            {city}, {state} {zip}
-                            <br />
-                            <span>{phone}</span>
-                            </p>
-                        </div>
-
-                        <div className="widget widget_tweets">
-                            <h4 className="widget-title">Latest Tweets</h4>
-                            <ul id="twitter">
-                            <li>
-                                <span>
-                                Saya bahagia kemarin <br/>
-                                <a href="./">http://t.co/CGIrdxIlI3</a>
-                                </span>
-                                <b>
-                                <a href="./">2 Days Ago</a>
-                                </b>
-                            </li>
-                            <li>
-                                <span>
-                                semoga kamu baik-baik saja yaa<br/>
-                                <a href="./">http://t.co/CGIrdxIlI3</a>
-                                </span>
-                                <b>
-                                <a href="./">3 Days Ago</a>
-                                </b>
-                            </li>
-                            </ul>
-                        </div>
-                        </aside>
-                    </Slide>
                 </div>
             </section>
         );
