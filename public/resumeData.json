@@ -1,26 +1,26 @@
 {
     "main": {
-        "name" : "Mutia Rahmatun Husna",
+        "name" : "Juanda Gilang Purnomo",
         "description": "I am a programmer",
-        "image":"profilepic.jpg",
-        "github":"https://github.com/mutiarahmatun",
-        "project":"https://github.com/mutiarahmatun",
-        "bio": "Ini adalah section biografi aku",
+        "image":"bg puth.png",
+        "github":"https://github.com/xnite-x",
+        "project":"https://github.com/xnite-x",
+        "bio": "I am a final-year Information Technology student at IBI Kwik Kian Gie, passionate about the field of Programming and Machine Learning. My journey in this domain began at Bangkit Academy, where I developed hands-on experience building machine learning models for real-world applications. With a solid foundation in programming and data analysis, I am eager to contribute my skills to innovative AI and ML projects.",
         "contactmessage":"Hello, here I am",
-        "email": "myemail@gmail.com",
+        "email": "juandagilang7@gmail.com",
         "phone": "877-1234-5678",
         "address":{
-            "street":"Jl Margonda Raya",
-            "city":"Depok",
-            "state":"West Java",
-            "zip": "16024"
+            "street":"Jl Mandala Bahari no 4",
+            "city":"Jakarta Utara",
+            "state":"DKI Jakarta",
+            "zip": "14450"
         },
-        "website": "https://github.com/mutiarahmatun",
-        "resumedownload":"https://github.com/mutiarahmatun",
+        "website": "https://github.com/xnite-x",
+        "resumedownload":"https://github.com/xnite-x",
         "social":[
           {
             "name": "facebook",
-            "url": "https://github.com/mutiarahmatun",
+            "url": "https://github.com/xnite-x",
             "className": "fa fa-facebook"
           },
           {
@@ -30,17 +30,17 @@
           },
           {
             "name":"linkedin",
-            "url":"https://www.linkedin.com/in/mutia-rahmatun-husna/",
+            "url":"https://www.linkedin.com/in/juanda-gilang/",
             "className":"fa fa-linkedin"
           },
           {
             "name":"instagram",
-            "url":"http://instagram.com/mutia.rahmatun",
+            "url":"http://instagram.com/exonite.skys",
             "className":"fa fa-instagram"
           },
           {
             "name":"github",
-            "url":"https://github.com/mutiarahmatun",
+            "url":"https://github.com/xnite-x",
             "className":"fa fa-github"
           }
         ]
@@ -49,39 +49,39 @@
         "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
         "education" : [
             {
-                "school": "Universitas Indonesia",
-                "degree": "Bachelor degree of Computer Science",
-                "graduated": "June 2021",
-                "description" : "I am joining gemastik competition"
+                "school": "Institut Bisnis dan Informatika Kiwk Kian Gie",
+                "degree": "Bachelor degree of Information Technology",
+                "graduated": "Feb 2025",
+                "description" : "I am joining Google Developer Student Club"
             },
             {
-                "school": "SMA 39 Jakarta",
-                "degree": "Science",
-                "graduated": "May 2017",
-                "description": "I am joining computer olympiad"
+                "school": "SMKN 56 Jakarta",
+                "degree": "Teknik Instalasi Tenaga Listrik",
+                "graduated": "Jun 2019",
+                "description": "I am joining Taekwondo competition"
             }
         ],
         "work": [
             {
-                "company" : "PT. Linimuda",
-                "title" : "Software Engineer",
-                "years": "April 2020 - February 2022",
-                "description": "Creating a website and maintenance"
+                "company" : "PT. Megatama Global Internasional",
+                "title" : "Frontend Engineer | Freelance",
+                "years": "January 2025 - January 2025",
+                "description": "Creating a company profile website"
             }, {
-                "company": "My Skill Id",
-                "title": "Frontend Engineer",
-                "years": "February 2022 - present",
-                "description": "Creating a mobile application"
+                "company": "Paroki Tanjung Priok Gereja Santo Fransiskus Xaverius",
+                "title": "Backend Engineer",
+                "years": "Juli 2024 - August 2024",
+                "description": "Creating Admin Dashboard, Content Management System, Database"
             }
         ],
         "skills": [
             {
-                "name" : "Java",
+                "name" : "Javascript",
                 "level": "90%"
             },
             {
                 "name": "Python",
-                "level": "70%"
+                "level": "80%"
             },
             {
                 "name": "ReactJS",
@@ -89,91 +89,31 @@
             },
             {
                 "name": "VueJS",
-                "level": "88%"
+                "level": "75%"
             },
             {
                 "name": "Kotlin",
-                "level": "95%"
+                "level": "85%"
             },
             {
                 "name": "PHP",
-                "level": "60%"
+                "level": "90%"
             }
         ]
     },
     "portfolio":{
         "projects": [
             {
-                "title": "Canadian Wanderlust",
-                "category": "My travel blog for my post-university",
-                "image": "01.jpg",
-                "url": "https://www.canadianwanderlust.com"
+                "title": "Megatama Global Internasional",
+                "category": "Freelance",
+                "image": "megatama.png",
+                "url": "https://www.megatamaglobal.com"
             },
             {
-                "title":"Fury Fighting Gear",
-                "category":"(offline now) A fighting gear company I started",
-                "image":"02.jpg",
-                "url":"http://www.timbakerdev.com"
-              },
-              {
-                "title":"Original Thai Food",
-                "category":"Website I built for a restaurant I like in Thailand",
-                "image":"03.jpg",
-                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-              },
-              {
-                "title":"Resume Website",
-                "category":"A React based resume website template",
-                "image":"04.jpg",
-                "url":"http://www.timbakerdev.com"
-              },
-              {
-                "title":"Smirkspace",
-                "category":"(MVP Only) A React and Meteor based chat University project.",
-                "image":"05.jpg",
-                "url":"http://www.smirkspace.com"
-              },
-              {
-                "title":"Canadian Wanderlust",
-                "category":"My Travel Blog for my post-university travels",
-                "image":"06.jpg",
-                "url":"https://www.canadianwanderlust.com"
-              },
-              {
-                "title":"Fury Fighting Gear",
-                "category":"(offline now) A fighting gear company I started",
-                "image":"01.jpg",
-                "url":"http://www.timbakerdev.com"
-              },
-              {
-                "title":"Original Thai Food",
-                "category":"Website I built for a restaurant I like in Thailand",
-                "image":"02.jpg",
-                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-              },
-              {
-                "title":"Original Thai Food",
-                "category":"Website I built for a restaurant I like in Thailand",
-                "image":"03.jpg",
-                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-              },
-              {
-                "title":"Resume Website",
-                "category":"A React based resume website template",
-                "image":"04.jpg",
-                "url":"http://www.timbakerdev.com"
-              },
-              {
-                "title":"Smirkspace",
-                "category":"(MVP Only) A React and Meteor based chat University project.",
-                "image":"05.jpg",
-                "url":"http://www.smirkspace.com"
-              },
-              {
-                "title":"Canadian Wanderlust",
-                "category":"My Travel Blog for my post-university travels",
-                "image":"06.jpg",
-                "url":"https://www.canadianwanderlust.com"
+                "title":"Paroki Tanjung Priok Gereja Santo Fransiskus Xaverius",
+                "category":"internship",
+                "image":"gereja.png",
+                "url":"http://www.parokitanjungpriok.org"
               }
         ]
     }
